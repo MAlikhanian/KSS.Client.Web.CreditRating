@@ -1,0 +1,17 @@
+{
+  "title": "کارتکس اعتبارسنجی",
+  "customer": "مشتری",
+  "noCustomerSelected": "مشتری انتخاب نشده",
+  "brokerage": "کارگزاری",
+  "riskTier": "سطح ریسک",
+  "status": "وضعیت",
+  "lastUpdated": "آخرین بروزرسانی",
+  "validation": "اعتبار اعتبارسنجی",
+  "completionPercent": "درصد تکمیل اطلاعات",
+  "listTitle": "آمار اعتبارسنجی",
+  "totalAssessments": "مجموع اعتبارسنجی‌ها",
+  "statusPendingApproval": "در انتظار تأیید",
+  "statusApproved": "تأیید شده",
+  "statusRejected": "رد شده",
+  "statusCalculated": "محاسبه شده"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Assessment Cardex",
+  "customer": "Customer",
+  "noCustomerSelected": "No customer selected",
+  "brokerage": "Brokerage",
+  "riskTier": "Risk Tier",
+  "status": "Status",
+  "lastUpdated": "Last Updated",
+  "validation": "Assessment Validity",
+  "completionPercent": "Completion %",
+  "listTitle": "Assessment Stats",
+  "totalAssessments": "Total Assessments",
+  "statusPendingApproval": "Pending Approval",
+  "statusApproved": "Approved",
+  "statusRejected": "Rejected",
+  "statusCalculated": "Calculated"
+}
